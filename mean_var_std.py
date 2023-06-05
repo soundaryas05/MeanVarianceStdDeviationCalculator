@@ -1,6 +1,5 @@
 import numpy as np
 
-
 def calculate(input):
   if len(input) != 9:
     raise ValueError("List must contain nine numbers.")
